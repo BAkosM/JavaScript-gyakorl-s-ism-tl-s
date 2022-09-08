@@ -1,1 +1,1 @@
-# JavaScript-gyakorl-s-ism-tl-s
+Kecseti bejelentkezve maradt ezért kontributornak írja!
