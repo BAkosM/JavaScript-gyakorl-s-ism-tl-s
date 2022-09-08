@@ -8,3 +8,8 @@ let macska = {
 macskak[i] = macska;
 }
 console.log(macskak);
+for (var i = 0; i <macskak.length; i++){
+    if (macskak[i].Eletkor == 2){
+        console.log(macskak[i]);
+    }
+}
